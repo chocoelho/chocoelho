@@ -1,4 +1,4 @@
-<h2>Hey there, hi there! I'm Carlos Coelho! <img src="https://emoji.gg/assets/emoji/6680_this_is_fine.png" width="50"></h2>
+<h2>Hey there, hi there! I'm Carlos Coelho! <img src="https://emoji.gg/assets/emoji/6680_this_is_fine.png" width="30"></h2>
 <p><em>Tech Lead Developer and Partner at <a href="http://www.vintasoftware.com">Vinta Software</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
