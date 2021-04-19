@@ -1,5 +1,5 @@
 <h2>Hey there, hi there! I'm Carlos Coelho! <img src="https://emoji.gg/assets/emoji/6680_this_is_fine.png" width="30"></h2>
-<p><em>Tech Lead Developer and Partner at <a href="http://www.vintasoftware.com">Vinta Software</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Tech Lead Developer and Partner at <a href="http://www.vintasoftware.com">Vinta Software</a><img src="https://emojis.slackmojis.com/emojis/images/1613461409/13263/bongocat_code.gif?1613461409" width="30"> 
 </em></p>
 
 [![Linkedin: chocoelho](https://img.shields.io/badge/-chocoelho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chocoelho/)](https://www.linkedin.com/in/anmol-p-singh/)
