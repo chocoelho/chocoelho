@@ -8,7 +8,7 @@
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="30"> A little more about me...  
 
-<img align='right' src="https://static.displate.com/280x392/displate/2020-07-14/7c2ec3f8c336338501ea495a63155e25_b86c99794d9b979ee9511ddaaafc4ce2.jpg" width="300">
+<img align='right' src="https://static.displate.com/280x392/displate/2020-07-14/7c2ec3f8c336338501ea495a63155e25_b86c99794d9b979ee9511ddaaafc4ce2.jpg" width="285">
 
 ```python
 chocoelho = {
