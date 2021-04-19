@@ -1,16 +1,35 @@
-### Hi there 👋
+<h2>Hey there, hi there! I'm Carlos Coelho! <img src="https://emoji.gg/assets/emoji/6680_this_is_fine.png" width="50"></h2>
+<p><em>Tech Lead Developer and Partner at <a href="http://www.vintasoftware.com">Vinta Software</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**chocoelho/chocoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: chocoelho](https://img.shields.io/badge/-chocoelho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chocoelho/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/chocoelho?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=chocoelho.chocoelho)
+![Waka Readme](https://github.com/chocoelho/chocoelho/workflows/Waka%20Readme/badge.svg)
 
-Here are some ideas to get you started:
+### <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="30"> A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src="https://static.displate.com/280x392/displate/2020-07-14/7c2ec3f8c336338501ea495a63155e25_b86c99794d9b979ee9511ddaaafc4ce2.jpg" width="300">
+
+```python
+chocoelho = {
+    "pronouns": "He" | "Him",
+    "code": ["Python", "Javascript", "Ruby"],
+    "ask_me_about": ["web dev", "tech", "leadership"],
+    "technologies": {
+        "frontend": {
+            "js": ["React"],
+            "css": ["antd", "bootstrap"]
+        },
+        "backend": {
+            "js": ["node", "express"],
+            "python": ["django"],
+            "ruby": ["rails"]
+        },
+        "dev_ops": ["Azure", "Docker", "Nginx"],
+        "databases": ["PostgreSQL"],
+        "misc": ["emacs", "PyQt", "pytest", "open-cv"]
+    },
+    "fun_fact": "Bears, beets, Battlestar Galactica."
+}
+```
