@@ -31,3 +31,6 @@ chocoelho = {
     "fun_fact": "Bears, beets, Battlestar Galactica."
 }
 ```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
