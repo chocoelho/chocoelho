@@ -4,7 +4,6 @@
 
 [![Linkedin: chocoelho](https://img.shields.io/badge/-chocoelho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chocoelho/)](https://www.linkedin.com/in/anmol-p-singh/)
 ![GitHub followers](https://img.shields.io/github/followers/chocoelho?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=chocoelho.chocoelho)
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="30"> A little more about me...  
 
