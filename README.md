@@ -38,7 +38,7 @@ chocoelho = {
 
 > 🏆 415 Contributions in the Year 2021
  > 
-> 📦 985 Bytes Used in Github's Storage 
+> 📦 988 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
