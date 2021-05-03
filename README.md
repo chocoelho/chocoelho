@@ -30,13 +30,13 @@ chocoelho = {
 ```
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-106-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-41682%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50552%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 481 Contributions in the Year 2021
+> 🏆 493 Contributions in the Year 2021
  > 
 > 📦 1.1 kB Used in Github's Storage 
  > 
