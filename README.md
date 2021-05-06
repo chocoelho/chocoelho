@@ -32,11 +32,11 @@ chocoelho = {
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49710%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49994%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 503 Contributions in the Year 2021
+> 🏆 519 Contributions in the Year 2021
  > 
 > 📦 1.1 kB Used in Github's Storage 
  > 
@@ -49,9 +49,9 @@ chocoelho = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
+🌞 Morning    61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
 🌆 Daytime    196 commits    ████████████░░░░░░░░░░░░░   48.51% 
-🌃 Evening    131 commits    ████████░░░░░░░░░░░░░░░░░   32.43% 
+🌃 Evening    132 commits    ████████░░░░░░░░░░░░░░░░░   32.67% 
 🌙 Night      15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.71%
 
 ```
