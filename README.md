@@ -36,7 +36,7 @@ chocoelho = {
 
 **🐱 My Github Data** 
 
-> 🏆 635 Contributions in the Year 2021
+> 🏆 638 Contributions in the Year 2021
  > 
 > 📦 1.4 kB Used in Github's Storage 
  > 
