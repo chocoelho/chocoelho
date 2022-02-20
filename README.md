@@ -4,26 +4,24 @@
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="30"> A little more about me...  
 
-<img align='right' src="https://static.displate.com/280x392/displate/2020-07-14/7c2ec3f8c336338501ea495a63155e25_b86c99794d9b979ee9511ddaaafc4ce2.jpg" width="265">
-
 ```python
 chocoelho = {
-    "pronouns": "He" | "Him",
-    "code": ["Python", "Javascript", "Ruby"],
+    "pronouns": ["he", "him"],
+    "code": ["python", "javascript", "typescript", "ruby", "elisp", "vimscript", "shellscript", "c", "c++", "java", "lua", "cobol"],
     "ask_me_about": ["web dev", "tech", "leadership", "wsl", "linux"],
-    "technologies": {
+    "stack": {
         "frontend": {
             "js": ["React"],
-            "css": ["antd", "bootstrap"]
+            "css": ["antd", "bootstrap", "tailwind", "foundation"]
         },
         "backend": {
             "js": ["node", "express"],
-            "python": ["django"],
+            "python": ["django", "flask"],
             "ruby": ["rails"]
         },
-        "dev_ops": ["Azure", "Docker", "Nginx"],
-        "databases": ["PostgreSQL"],
-        "misc": ["emacs", "pytest"]
+        "dev_ops": ["azure", "docker", "nginx", "heroku", "aws"],
+        "databases": ["postgresql", "mysql", "sqlite", "mongodb"],
+        "misc": ["emacs", "pytest", "pygame", "pyqt"]
     },
     "fun_fact": "Bears, beets, Battlestar Galactica."
 }
