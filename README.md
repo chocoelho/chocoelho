@@ -7,7 +7,20 @@
 ```python
 chocoelho = {
     "pronouns": ["he", "him"],
-    "code": ["python", "javascript", "typescript", "ruby", "elisp", "vimscript", "shellscript", "c", "c++", "java", "lua", "cobol"],
+    "code": [
+        "python",
+        "javascript",
+        "typescript",
+        "ruby",
+        "elisp",
+        "vimscript",
+        "shellscript",
+        "c",
+        "c++",
+        "java",
+        "lua",
+        "cobol"
+    ],
     "ask_me_about": ["web dev", "tech", "leadership", "wsl", "linux"],
     "stack": {
         "frontend": {
