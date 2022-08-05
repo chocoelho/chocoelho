@@ -41,13 +41,13 @@ chocoelho = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C657%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C658%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 342 Contributions in the Year 2022
+> 🏆 344 Contributions in the Year 2022
  > 
 > 📦 1.8 kB Used in GitHub's Storage 
  > 
@@ -86,15 +86,15 @@ Sunday       7 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   3 hrs 33 mins       ████████████████████████░   99.25% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42% 
-Emacs Lisp               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
+Python                   2 hrs 43 mins       ████████████████████████░   99.37% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55% 
+Emacs Lisp               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
 
 🔥 Editors: 
-Emacs                    3 hrs 35 mins       █████████████████████████   100.0%
+Emacs                    2 hrs 45 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-WSL                      3 hrs 35 mins       █████████████████████████   100.0%
+WSL                      2 hrs 45 mins       █████████████████████████   100.0%
 
 ```
 
@@ -111,5 +111,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2022 01:55:16 UTC
+ Last Updated on 05/08/2022 01:55:44 UTC
 <!--END_SECTION:waka-->
