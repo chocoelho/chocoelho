@@ -41,7 +41,7 @@ chocoelho = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C671%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C669%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33%20Thousand%20lines%20of%20code-blue)
 
@@ -113,5 +113,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2022 02:09:00 UTC
+ Last Updated on 23/08/2022 12:40:17 UTC
 <!--END_SECTION:waka-->
