@@ -41,13 +41,13 @@ chocoelho = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C694%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C694%20hrs%2022%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 666 Contributions in the Year 2022
+> 🏆 669 Contributions in the Year 2022
  > 
 > 📦 1.8 kB Used in GitHub's Storage 
  > 
@@ -112,5 +112,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2022 12:54:43 UTC
+ Last Updated on 18/10/2022 02:19:00 UTC
 <!--END_SECTION:waka-->
