@@ -47,7 +47,7 @@ chocoelho = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 721 Contributions in the Year 2022
+> 🏆 732 Contributions in the Year 2022
  > 
 > 📦 1.8 kB Used in GitHub's Storage 
  > 
@@ -57,6 +57,45 @@ chocoelho = {
  > 
 > 🔑 7 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    123 commits    ███████░░░░░░░░░░░░░░░░░░   29.36% 
+🌆 Daytime    194 commits    ███████████░░░░░░░░░░░░░░   46.3% 
+🌃 Evening    80 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.09% 
+🌙 Night      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       79 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.85% 
+Tuesday      78 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.62% 
+Wednesday    89 commits     █████░░░░░░░░░░░░░░░░░░░░   21.24% 
+Thursday     73 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.42% 
+Friday       81 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.33% 
+Saturday     12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
+Sunday       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.67%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -70,5 +109,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2022 12:48:39 UTC
+ Last Updated on 10/11/2022 01:52:45 UTC
 <!--END_SECTION:waka-->
