@@ -49,7 +49,7 @@ chocoelho = {
 
 > 🏆 814 Contributions in the Year 2022
  > 
-> 📦 1.9 kB Used in GitHub's Storage 
+> 📦 1.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,5 +112,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/12/2022 12:33:29 UTC
+ Last Updated on 12/12/2022 01:26:51 UTC
 <!--END_SECTION:waka-->
