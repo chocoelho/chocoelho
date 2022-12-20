@@ -41,13 +41,13 @@ chocoelho = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C711%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C709%20hrs%2028%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 839 Contributions in the Year 2022
+> 🏆 850 Contributions in the Year 2022
  > 
 > 📦 1.8 kB Used in GitHub's Storage 
  > 
@@ -60,17 +60,17 @@ chocoelho = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    102 commits    ██████░░░░░░░░░░░░░░░░░░░   24.34% 
+🌞 Morning    103 commits    ██████░░░░░░░░░░░░░░░░░░░   24.58% 
 🌆 Daytime    210 commits    ████████████░░░░░░░░░░░░░   50.12% 
-🌃 Evening    85 commits     █████░░░░░░░░░░░░░░░░░░░░   20.29% 
+🌃 Evening    84 commits     █████░░░░░░░░░░░░░░░░░░░░   20.05% 
 🌙 Night      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       84 commits     █████░░░░░░░░░░░░░░░░░░░░   20.05% 
-Tuesday      70 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.71% 
+Monday       87 commits     █████░░░░░░░░░░░░░░░░░░░░   20.76% 
+Tuesday      67 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
 Wednesday    109 commits    ██████░░░░░░░░░░░░░░░░░░░   26.01% 
 Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.38% 
 Friday       60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.32% 
@@ -112,5 +112,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2022 01:22:37 UTC
+ Last Updated on 20/12/2022 12:34:47 UTC
 <!--END_SECTION:waka-->
