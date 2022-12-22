@@ -41,15 +41,15 @@ chocoelho = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C714%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C714%20hrs%202%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-32%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 865 Contributions in the Year 2022
+> 🏆 869 Contributions in the Year 2022
  > 
-> 📦 1.8 kB Used in GitHub's Storage 
+> 📦 1.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,8 +61,8 @@ chocoelho = {
 
 ```text
 🌞 Morning    105 commits    ██████░░░░░░░░░░░░░░░░░░░   25.06% 
-🌆 Daytime    208 commits    ████████████░░░░░░░░░░░░░   49.64% 
-🌃 Evening    84 commits     █████░░░░░░░░░░░░░░░░░░░░   20.05% 
+🌆 Daytime    209 commits    ████████████░░░░░░░░░░░░░   49.88% 
+🌃 Evening    83 commits     █████░░░░░░░░░░░░░░░░░░░░   19.81% 
 🌙 Night      22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
 
 ```
@@ -114,5 +114,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2022 01:22:00 UTC
+ Last Updated on 22/12/2022 12:35:00 UTC
 <!--END_SECTION:waka-->
