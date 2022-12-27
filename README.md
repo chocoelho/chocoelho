@@ -56,7 +56,7 @@ chocoelho = {
             "rpg maker 2k3",
         ],
     },
-    "fun_fact": "Bears, beets, Battlestar Galactica."
+    "fun_fact": "With great power comes great responsibility; with great responsibility can come extreme stress"
 }
 ```
 
