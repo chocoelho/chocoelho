@@ -6,11 +6,12 @@
 
 ```python
 chocoelho = {
-    "pronouns": ["he", "him"],
+    "pronouns": ["he", "him","his"],
     "code": [
         "python",
         "javascript",
         "typescript",
+        "coffeescript",
         "ruby",
         "elisp",
         "vimscript",
@@ -19,22 +20,41 @@ chocoelho = {
         "c++",
         "java",
         "lua",
-        "cobol"
+        "cobol",
+        "dart",
+        "kotlin",
+        "php",
     ],
-    "ask_me_about": ["web dev", "tech", "leadership", "wsl", "linux"],
+    "ask_me_about": ["web dev", "mobile", "tech", "leadership",],
     "stack": {
         "frontend": {
-            "js": ["React"],
-            "css": ["antd", "bootstrap", "tailwind", "foundation"]
+            "js": ["react", "angular","polymer",],
+            "css": ["antd", "bootstrap", "tailwind", "foundation","material","sass","less",],
+            "html": ["haml","slim",],
         },
         "backend": {
-            "js": ["node", "express"],
-            "python": ["django", "flask"],
-            "ruby": ["rails"]
+            "js": ["node", "express","nextjs",],
+            "python": ["django", "flask",],
+            "ruby": ["rails",]
         },
-        "dev_ops": ["azure", "docker", "nginx", "heroku", "aws"],
-        "databases": ["postgresql", "mysql", "sqlite", "mongodb"],
-        "misc": ["emacs", "pytest", "pygame", "pyqt"]
+        "mobile": {
+            "android": ["flutter","ionic","kotlin",]
+        },
+        "dev_ops": ["azure", "docker", "nginx", "heroku", "aws","ansible",],
+        "databases": ["postgresql", "mysql", "sqlite", "mongodb",],
+        "misc": [
+            "emacs",
+            "pytest",
+            "pygame",
+            "pyqt",
+            "pycharm",
+            "vscode",
+            "i3wm",
+            "tmux",
+            "vim",
+            "rpg maker 2k",
+            "rpg maker 2k3",
+        ],
     },
     "fun_fact": "Bears, beets, Battlestar Galactica."
 }
