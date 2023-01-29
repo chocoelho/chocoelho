@@ -61,7 +61,7 @@ chocoelho = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C737%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C740%20hrs%2046%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33%20Thousand%20lines%20of%20code-blue)
 
@@ -69,7 +69,7 @@ chocoelho = {
 
 > 🏆 66 Contributions in the Year 2023
  > 
-> 📦 2.0 kB Used in GitHub's Storage 
+> 📦 1.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
