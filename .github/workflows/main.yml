@@ -21,3 +21,4 @@ jobs:
           SHOW_EDITORS: "False"
           SHOW_UPDATED_DATE: "False"
           SHOW_LANGUAGE: "False"
+          SHOW_TIMEZONE: "False"
