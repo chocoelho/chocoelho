@@ -1,5 +1,5 @@
 <h2>Hey there, hi there! I'm Carlos Coelho! <img src="https://emoji.gg/assets/emoji/6680_this_is_fine.png" width="30"></h2>
-<p><em>Principal Engineer and Partner at <a href="http://www.vintasoftware.com">Vinta Software</a> <img src="https://emojis.slackmojis.com/emojis/images/1613461409/13263/bongocat_code.gif?1613461409" width="30"> 
+<p><em>Senior Developer at <a href="http://www.vintasoftware.com">Vinta Software</a> <img src="https://emojis.slackmojis.com/emojis/images/1613461409/13263/bongocat_code.gif?1613461409" width="30"> 
 </em></p>
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1597320283/10003/catjam.gif?1597320283" width="30"> A little more about me...  
